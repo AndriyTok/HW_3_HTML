@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="190eea47-987c-422c-a7fb-e38d3419e93c" name="Changes" comment="Зверстав другий макет з фігми">
-      <change afterPath="$PROJECT_DIR$/3_1/Mockup3/mockup3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_1/Mockup3/mockup3.html" afterDir="false" />
+    <list default="true" id="190eea47-987c-422c-a7fb-e38d3419e93c" name="Changes" comment="Зверстав третій макет з фігми">
+      <change afterPath="$PROJECT_DIR$/3_1/Mockup7/mockup7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_1/Mockup7/mockup7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707216893963</updated>
-      <workItem from="1707216895088" duration="12193000" />
+      <workItem from="1707216895088" duration="12869000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання 2 (секції)">
       <option name="closed" value="true" />
@@ -88,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707233096639</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Зверстав третій макет з фігми">
+      <option name="closed" value="true" />
+      <created>1707237447970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707237447970</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +107,7 @@
     <MESSAGE value="Виконав завдання 3" />
     <MESSAGE value="Зверстав перший макет з фігми" />
     <MESSAGE value="Зверстав другий макет з фігми" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зверстав другий макет з фігми" />
+    <MESSAGE value="Зверстав третій макет з фігми" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зверстав третій макет з фігми" />
   </component>
 </project>
