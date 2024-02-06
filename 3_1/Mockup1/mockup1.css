@@ -2,7 +2,6 @@ body{
     margin:0;
 }
 p{
-    margin: 0;
     font-size:1.4em;
     text-align:center;
 }
@@ -31,12 +30,10 @@ section{
 }
 .content1{
     height:28.21428571428572vh;
-    width:62.84722222222222vw;
     background-color: #ABA8A8;
 }
 .content2{
     height:28.21428571428572vh;
-    width:62.84722222222222vw;
     background-color: #878484;
 }
 aside{
