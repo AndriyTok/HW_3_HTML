@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="190eea47-987c-422c-a7fb-e38d3419e93c" name="Changes" comment="Зверстав третій макет з фігми">
-      <change afterPath="$PROJECT_DIR$/3_1/Mockup7/mockup7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_1/Mockup7/mockup7.html" afterDir="false" />
+    <list default="true" id="190eea47-987c-422c-a7fb-e38d3419e93c" name="Changes" comment="Зверстав &quot;cьомий&quot; макет з фігми">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2bzTQQOZzqFhKgP4Ic2O9h8j5Vi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,6 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -43,9 +47,25 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HW_3_HTML" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HW_3_HTML" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +74,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707216893963</updated>
-      <workItem from="1707216895088" duration="12869000" />
+      <workItem from="1707216895088" duration="13364000" />
+      <workItem from="1707296147394" duration="64000" />
+      <workItem from="1707296215055" duration="24000" />
+      <workItem from="1707296242377" duration="360000" />
+      <workItem from="1707296722947" duration="409000" />
+      <workItem from="1707297179992" duration="40000" />
+      <workItem from="1707297243764" duration="39000" />
+      <workItem from="1707297405986" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="Виконав завдання 2 (секції)">
       <option name="closed" value="true" />
@@ -96,11 +123,30 @@
       <option name="project" value="LOCAL" />
       <updated>1707237447970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Зверстав &quot;cьомий&quot; макет з фігми">
+      <option name="closed" value="true" />
+      <created>1707238017655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707238017655</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Виконав завдання 2 (секції)" />
@@ -108,6 +154,7 @@
     <MESSAGE value="Зверстав перший макет з фігми" />
     <MESSAGE value="Зверстав другий макет з фігми" />
     <MESSAGE value="Зверстав третій макет з фігми" />
-    <option name="LAST_COMMIT_MESSAGE" value="Зверстав третій макет з фігми" />
+    <MESSAGE value="Зверстав &quot;cьомий&quot; макет з фігми" />
+    <option name="LAST_COMMIT_MESSAGE" value="Зверстав &quot;cьомий&quot; макет з фігми" />
   </component>
 </project>
